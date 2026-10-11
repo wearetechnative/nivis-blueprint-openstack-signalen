@@ -1,0 +1,13 @@
+{
+  "domain": "meldingen.example.nl",
+  "acmeEmail": "beheer@example.nl",
+  "adminSshKey": "ssh-ed25519 AAAA... beheer@example.nl",
+  "oidcIssuer": "https://login.example.nl/realms/gemeente",
+  "organization": "Gemeente Voorbeeld",
+  "mailFrom": "meldingen@example.nl",
+  "smtpHost": "smtp.example.nl",
+  "flavor": "m1.large",
+  "externalNetwork": "public",
+  "adminCidr": "203.0.113.0/24",
+  "dataVolumeGb": 50
+}
